@@ -16,6 +16,7 @@ The directories in this repo are organized by over-arching topics (e.g., Getting
 # Sample Work
 
 From [Medical Insurance Portfolio Project](https://github.com/pdvnny/Codecademy-DataScientist/tree/master/PythonFundamentals/PortfolioProject-Prompt-USMedicalInsurance):
+
 ![Age vs Insurance Cost Analysis](https://github.com/pdvnny/Codecademy-DataScientist/blob/master/PythonFundamentals/PortfolioProject-Prompt-USMedicalInsurance/AgeCost_BMI_Correlation.png)
 
 # Opening work in this repo
