@@ -13,6 +13,12 @@ The directories in this repo are organized by over-arching topics (e.g., Getting
 * Python Fundamentals:
   * *will update when I get a chance*
 
+# Sample Work
+
+From [Medical Insurance Portfolio Project](https://github.com/pdvnny/Codecademy-DataScientist/tree/master/PythonFundamentals/PortfolioProject-Prompt-USMedicalInsurance):
+![EDA](https://github.com/pdvnny/Codecademy-DataScientist/blob/master/PythonFundamentals/PortfolioProject-Prompt-USMedicalInsurance/MedicalInsuranceData_EDA.png)
+![Age vs Insurance Cost Analysis](https://github.com/pdvnny/Codecademy-DataScientist/blob/master/PythonFundamentals/PortfolioProject-Prompt-USMedicalInsurance/AgeCost_BMI_Correlation.png)
+
 # Opening work in this repo
 
 For the most part, everything in this repo was completed in Jupyter Notebooks. Any environment that can open Jupyter Notebooks should not have trouble opening and running these files.
