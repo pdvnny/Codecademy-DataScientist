@@ -17,4 +17,11 @@ The directories in this repo are organized by over-arching topics (e.g., Getting
 
 For the most part, everything in this repo was completed in Jupyter Notebooks. Any environment that can open Jupyter Notebooks should not have trouble opening and running these files.
 
-As for 15 Dec 2021, there are no special libraries that need to be imported for any of the scripts so far.
+Additional modules needed for some scripts:
+* Numpy
+* Pandas
+* Sklearn
+* SciPy
+* Matplotlib
+
+1/14/2022 - In *PythonFundamentals/PortfolioProject-Prompt-USMedicalInsurance*, the Jupyter Notebook containing the core of my work for this "portfolio project" is the only file that requires non-standard Python modules.
