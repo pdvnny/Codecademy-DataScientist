@@ -18,7 +18,8 @@ The directories in this repo are organized by over-arching topics (e.g., Getting
 From [Medical Insurance Portfolio Project](https://github.com/pdvnny/Codecademy-DataScientist/tree/master/PythonFundamentals/PortfolioProject-Prompt-USMedicalInsurance):
 
 ![Age vs Insurance Cost Analysis](https://github.com/pdvnny/Codecademy-DataScientist/blob/master/PythonFundamentals/PortfolioProject-Prompt-USMedicalInsurance/AgeCost_BMI_Correlation.png)
-*Whoops...There is no background for the figure below so you cannot see the labels and titles on this figure. I'll fix this soon.*
+
+*Whoops...There is no background for the figure below so you cannot see the labels and titles on this figure. I'll fix this soon.*  
 ![PCA Dimensionality Reduction of Health Insurance Data](https://github.com/pdvnny/Codecademy-DataScientist/blob/master/PythonFundamentals/PortfolioProject-Prompt-USMedicalInsurance/PCAonHealthInsuranceData.png)
 
 # Opening work in this repo
