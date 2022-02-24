@@ -19,6 +19,9 @@ From [Medical Insurance Portfolio Project](https://github.com/pdvnny/Codecademy-
 
 ![Age vs Insurance Cost Analysis](https://github.com/pdvnny/Codecademy-DataScientist/blob/master/PythonFundamentals/PortfolioProject-Prompt-USMedicalInsurance/AgeCost_BMI_Correlation.png)
 
+*Whoops...There is no background for the figure below so you cannot see the labels and titles on this figure. I'll fix this soon.*  
+![PCA Dimensionality Reduction of Health Insurance Data](https://github.com/pdvnny/Codecademy-DataScientist/blob/master/PythonFundamentals/PortfolioProject-Prompt-USMedicalInsurance/PCAonHealthInsuranceData.png)
+
 # Opening work in this repo
 
 For the most part, everything in this repo was completed in Jupyter Notebooks. Any environment that can open Jupyter Notebooks should not have trouble opening and running these files.
