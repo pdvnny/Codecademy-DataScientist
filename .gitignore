@@ -1,3 +1,7 @@
+# Personal additions - No JPGs and SVGs; I'll have to upload any pics as .png file
+*.svg
+*.jpg
+
 # Peronal additions
 *.pdf
 *.webp
